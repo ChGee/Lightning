@@ -52,7 +52,6 @@ void clouds() {
 }
 
 void pig() {
-  delay(200);
   if(there == true){
    fill(#FFC0CB);
    triangle(260, 230, 240, 260, 255, 260);
@@ -64,6 +63,9 @@ void pig() {
    
  }
 }
+
+
+
 
 
 
